@@ -13,7 +13,7 @@ authors:
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: https://www.mdpi.com/applsci/applsci-12-01860/article_deploy/html/images/applsci-12-01860-g003-550.jpg
   focal_point: Smart
   preview_only: false
 date: 2023-01-04T00:25:26.864Z
