@@ -1,22 +1,31 @@
 ---
 title: Guangying Ma
-role: ""
+role: "PhD candidate, Biomedical Engineering "
 avatar_filename: avatar.jpg
 bio: My research interests include optical coherence tomography, imaging system
   reconstruction and biomedical data analysis
-superuser: true
-status:
-  icon: ☕️
+interests:
+  - Coding
 social:
   - icon: envelope
     icon_pack: fas
     link: about/#contact
-  - icon: twitter
+  - icon: Linkedin
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://www.linkedin.com/in/guangying-ma-617432188/
+  - icon: email
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: mailto:gma7@uic.edu
+organizations: []
+education:
+  courses:
+    - course: Biomedical Engineering
+      institution: University of Illinois Chicago
+      year: 2023
+email: gma7@uic.edu
+superuser: true
+status:
+  icon: ☕️
 ---
 Guangying Ma is a PhD candidate in Biomedical Engineering at [University of Illinois Chicago](https://uic.edu/). I joined the [Biomedical Optics and Ophthalmic Imaging Laboratory](https://yaolab.bioe.uic.edu/) in 2019 under the supervision of [Dr. Xincheng Yao](https://yaolab.bioe.uic.edu/dr-yao/). 
 
