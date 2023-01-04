@@ -1,6 +1,7 @@
 ---
 title: Guangying Ma
 role: ""
+avatar_filename: max_profile_pic.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 superuser: true
